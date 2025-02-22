@@ -64,7 +64,7 @@ A full-stack social media application built with modern web technologies, enabli
 
 ```bash
 # Clone repository 
-git clone [https://github.com/yourusername/socialsphere.git](https://github.com/GunaSathwika/Social-Web-App-Mern-Stack.git)
+git clone https://github.com/Itsmesrinu/Social-Web-App-Mern-Stack.git
 cd Social-Web-App-Mern-Stack
 
 # Install backend dependencies
